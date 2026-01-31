@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pedrammdp
 - 👀 I’m interested in programming and coding and robotics
-- 🌱 I’m currently learning Python and C
+- 🌱 I’m currently doing projects with Python and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
